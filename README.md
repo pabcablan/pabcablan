@@ -8,8 +8,8 @@
 
 - 📊 Transformo datos en **soluciones reales**  
 - ⚡ Disfruto trabajando con **Python, Java y SQL**  
-- 🌱 Explorando **FastAPI + Deep Learning**  
-- 🔍 Curioso por **visualización de datos** y **dashboards interactivos**  
+- 🌱 Explorando técnicas de **análisis avanzado y aprendizaje automático** para crear soluciones de datos
+- 🔍 Interesado en **desarrollo de aplicaciones y herramientas para Ciencia de Datos**
 
 
 ## 🖥️ Habilidades Técnicas
@@ -21,7 +21,7 @@
 
 ### 📚 Frameworks y Librerías
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn,opencv,plotly,fastapi,junit"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn,opencv,plotly,junit"/>
 </p>
 
 ### 🛠 Herramientas y Entornos de Desarrollo
